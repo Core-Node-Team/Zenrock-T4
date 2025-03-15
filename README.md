@@ -18,11 +18,11 @@
 
 ### Explorer And Public Rpc Api
 
-https://explorer.corenodehq.com/Zenrock-Testnet/staking
+https://explorer.corenodehq.xyz/Zenrock-Testnet/staking
 
-https://zenrock-api.corenode.info
+https://zenrock-api.corenodehq.xyz
 
-https://zenrock-rpc.corenode.info
+https://zenrock-rpc.corenodehq.xyz
 
 ## 💻 Sistem Gereksinimleri
 | Bileşenler | Minimum Gereksinimler | 
