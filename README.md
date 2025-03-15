@@ -31,9 +31,7 @@ https://zenrock-rpc.corenodehq.xyz
 | RAM	| 16+ GB |
 | Storage	| 400 GB SSD |
 
-### Public RPC
 
-SOON....
 
 ### 🚧Gerekli kurulumlar
 ```
